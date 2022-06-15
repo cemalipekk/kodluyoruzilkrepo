@@ -2,7 +2,6 @@
 Kodluyoruz Back-End Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet bir adet readme dosyası ve bir adet de index.html barındırıyor.
 
 ## Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 [git clone](https://github.com/cemalipekk/kodluyoruzilkrepo.git)
 
 ## Usage
