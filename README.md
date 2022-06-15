@@ -3,8 +3,9 @@ Kodluyoruz Back-End Eğitimi kapsamında açtığım ilk repo. İçerisinde bir 
 
 ## Installation
 
->[git clone](https://github.com/cemalipekk/kodluyoruzilkrepo.git)
-
+```
+[git clone](https://github.com/cemalipekk/kodluyoruzilkrepo.git)
+```
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
